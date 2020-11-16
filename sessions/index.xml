@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Sessions on Trash Dungeon</title>
-    <link>https://trashdungeon.co.uk/sessions/</link>
+    <link>http://trashdungeon.co.uk/sessions/</link>
     <description>Recent content in Sessions on Trash Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Nov 2020 18:37:35 +0000</lastBuildDate>
     
-        <atom:link href="https://trashdungeon.co.uk/sessions/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://trashdungeon.co.uk/sessions/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -21,11 +21,11 @@
       
       <item>
         <title>Session 0</title>
-        <link>https://trashdungeon.co.uk/sessions/session-0/</link>
+        <link>http://trashdungeon.co.uk/sessions/session-0/</link>
         <pubDate>Mon, 16 Nov 2020 18:37:35 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 18:37:35 +0000</atom:modified>
-        <guid>https://trashdungeon.co.uk/sessions/session-0/</guid>
+        <guid>http://trashdungeon.co.uk/sessions/session-0/</guid>
         <description>Session 0 was for initial set-up. This is really just a placeholder!</description>
         
         
