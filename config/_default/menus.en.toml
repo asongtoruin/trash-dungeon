@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "sessions"
+  name = "Sessions"
+  url = "sessions"
+  weight = 1
+
+[[main]]
+  identifier = "characters"
+  name = "Characters"
+  url = "characters"
+  weight = 2
+
+[[main]]
+  identifier = "locations"
+  name = "Locations"
+  url = "locations"
+  weight = 3
+
+[[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "archive"
+  weight = 4
