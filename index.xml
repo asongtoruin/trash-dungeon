@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Trash Dungeon</title>
-    <link>http://example.org/</link>
+    <link>https://asongtoruin.github.io/trash-dungeon/</link>
     <description>Recent content on Trash Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Nov 2020 18:37:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://asongtoruin.github.io/trash-dungeon/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -42,11 +42,11 @@
       
       <item>
         <title>Stoke-on-Trent</title>
-        <link>http://example.org/locations/stoke-on-trent/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/locations/stoke-on-trent/</link>
         <pubDate>Mon, 16 Nov 2020 18:37:48 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 18:37:48 +0000</atom:modified>
-        <guid>http://example.org/locations/stoke-on-trent/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/locations/stoke-on-trent/</guid>
         <description>Where all true adventures begin.</description>
         
         
@@ -60,11 +60,11 @@
       
       <item>
         <title>Session 0</title>
-        <link>http://example.org/sessions/session-0/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/sessions/session-0/</link>
         <pubDate>Mon, 16 Nov 2020 18:37:35 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 18:37:35 +0000</atom:modified>
-        <guid>http://example.org/sessions/session-0/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/sessions/session-0/</guid>
         <description>Session 0 was for initial set-up. This is really just a placeholder!</description>
         
         
@@ -78,11 +78,11 @@
       
       <item>
         <title>Conor</title>
-        <link>http://example.org/characters/conor/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/characters/conor/</link>
         <pubDate>Mon, 16 Nov 2020 08:30:16 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 08:30:16 +0000</atom:modified>
-        <guid>http://example.org/characters/conor/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/characters/conor/</guid>
         <description>Summary An angry hermit-y druid.
 Pronouns Background </description>
         
@@ -97,11 +97,11 @@ Pronouns Background </description>
       
       <item>
         <title>Eline</title>
-        <link>http://example.org/characters/eline/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/characters/eline/</link>
         <pubDate>Mon, 16 Nov 2020 08:30:12 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 08:30:12 +0000</atom:modified>
-        <guid>http://example.org/characters/eline/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/characters/eline/</guid>
         <description>Summary A ranger, with a pet possum / badger / something else lightly unintimidating.
 Pronouns Background </description>
         
@@ -116,11 +116,11 @@ Pronouns Background </description>
       
       <item>
         <title>Lucinda</title>
-        <link>http://example.org/characters/lucinda/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/characters/lucinda/</link>
         <pubDate>Mon, 16 Nov 2020 08:30:12 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 08:30:12 +0000</atom:modified>
-        <guid>http://example.org/characters/lucinda/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/characters/lucinda/</guid>
         <description>Summary A MYSTERY CHARACTER!
 Pronouns Description </description>
         
@@ -135,11 +135,11 @@ Pronouns Description </description>
       
       <item>
         <title>Mike</title>
-        <link>http://example.org/characters/mike/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/characters/mike/</link>
         <pubDate>Mon, 16 Nov 2020 08:30:08 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 08:30:08 +0000</atom:modified>
-        <guid>http://example.org/characters/mike/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/characters/mike/</guid>
         <description>Summary Big Monk Energy.
 Pronouns Background </description>
         
@@ -154,11 +154,11 @@ Pronouns Background </description>
       
       <item>
         <title>Adam</title>
-        <link>http://example.org/characters/adam/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/characters/adam/</link>
         <pubDate>Mon, 16 Nov 2020 08:29:58 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 08:29:58 +0000</atom:modified>
-        <guid>http://example.org/characters/adam/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/characters/adam/</guid>
         <description>Summary A Paladin, of some sorts.
 Pronouns Background </description>
         

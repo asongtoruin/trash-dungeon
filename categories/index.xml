@@ -7,12 +7,12 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Trash Dungeon</title>
-    <link>http://example.org/categories/</link>
+    <link>https://asongtoruin.github.io/trash-dungeon/categories/</link>
     <description>Recent content in Categories on Trash Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://asongtoruin.github.io/trash-dungeon/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     

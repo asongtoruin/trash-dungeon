@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Locations on Trash Dungeon</title>
-    <link>http://example.org/locations/</link>
+    <link>https://asongtoruin.github.io/trash-dungeon/locations/</link>
     <description>Recent content in Locations on Trash Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Nov 2020 18:37:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/locations/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://asongtoruin.github.io/trash-dungeon/locations/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -21,11 +21,11 @@
       
       <item>
         <title>Stoke-on-Trent</title>
-        <link>http://example.org/locations/stoke-on-trent/</link>
+        <link>https://asongtoruin.github.io/trash-dungeon/locations/stoke-on-trent/</link>
         <pubDate>Mon, 16 Nov 2020 18:37:48 +0000</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 18:37:48 +0000</atom:modified>
-        <guid>http://example.org/locations/stoke-on-trent/</guid>
+        <guid>https://asongtoruin.github.io/trash-dungeon/locations/stoke-on-trent/</guid>
         <description>Where all true adventures begin.</description>
         
         
