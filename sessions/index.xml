@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Sessions on Trash Dungeon</title>
+    <link>http://example.org/sessions/</link>
+    <description>Recent content in Sessions on Trash Dungeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Nov 2020 18:37:35 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Session 0</title>
+        <link>http://example.org/sessions/session-0/</link>
+        <pubDate>Mon, 16 Nov 2020 18:37:35 +0000</pubDate>
+        
+        <atom:modified>Mon, 16 Nov 2020 18:37:35 +0000</atom:modified>
+        <guid>http://example.org/sessions/session-0/</guid>
+        <description>Session 0 was for initial set-up. This is really just a placeholder!</description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

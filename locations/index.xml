@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Locations on Trash Dungeon</title>
+    <link>http://example.org/locations/</link>
+    <description>Recent content in Locations on Trash Dungeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Nov 2020 18:37:48 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/locations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Stoke-on-Trent</title>
+        <link>http://example.org/locations/stoke-on-trent/</link>
+        <pubDate>Mon, 16 Nov 2020 18:37:48 +0000</pubDate>
+        
+        <atom:modified>Mon, 16 Nov 2020 18:37:48 +0000</atom:modified>
+        <guid>http://example.org/locations/stoke-on-trent/</guid>
+        <description>Where all true adventures begin.</description>
+        
+        
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

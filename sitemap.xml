@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/locations/</loc>
+    <lastmod>2020-11-16T18:37:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/locations/stoke-on-trent/</loc>
+    <lastmod>2020-11-16T18:37:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-11-16T18:37:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sessions/session-0/</loc>
+    <lastmod>2020-11-16T18:37:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sessions/</loc>
+    <lastmod>2020-11-16T18:37:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/characters/</loc>
+    <lastmod>2020-11-16T08:30:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/characters/conor/</loc>
+    <lastmod>2020-11-16T08:30:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/characters/eline/</loc>
+    <lastmod>2020-11-16T08:30:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/characters/lucinda/</loc>
+    <lastmod>2020-11-16T08:30:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/characters/mike/</loc>
+    <lastmod>2020-11-16T08:30:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/characters/adam/</loc>
+    <lastmod>2020-11-16T08:29:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>
