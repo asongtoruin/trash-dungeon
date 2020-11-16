@@ -7,12 +7,12 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Trash Dungeon</title>
-    <link>https://asongtoruin.github.io/trash-dungeon/tags/</link>
+    <link>https://trashdungeon.co.uk/tags/</link>
     <description>Recent content in Tags on Trash Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-        <atom:link href="https://asongtoruin.github.io/trash-dungeon/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://trashdungeon.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
