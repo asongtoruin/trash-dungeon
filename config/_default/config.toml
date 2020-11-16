@@ -1,4 +1,4 @@
-baseURL = "https://trashdungeon.co.uk"
+baseURL = "http://trashdungeon.co.uk"
 languageCode = "en-us"
 title = "Trash Dungeon"
 theme = "zzo"
