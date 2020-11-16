@@ -44,8 +44,8 @@ jobs:
       run: hugo
 
     # Step 5 - Create name file
-    # - name: Create cname file
-    #   run: echo 'freshswift.net' > public/CNAME
+    - name: Create cname file
+      run: echo 'trashdungeon.co.uk' > public/CNAME
 
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy
