@@ -11,6 +11,7 @@
     <description>Recent content in player-character on Trash Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 22 Nov 2020 18:31:00 +0000</lastBuildDate>
     
         <atom:link href="http://trashdungeon.co.uk/tags/player-character/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,11 +20,65 @@
 
       
       <item>
+        <title>Ragnar Firehammer</title>
+        <link>http://trashdungeon.co.uk/characters/ragnar/</link>
+        <pubDate>Sun, 22 Nov 2020 18:31:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 22 Nov 2020 18:31:00 +0000</atom:modified>
+        <guid>http://trashdungeon.co.uk/characters/ragnar/</guid>
+        <description>Summary    Category Value     Class Paladin   Race Dwarf   Alignment Lawful Neutral   Deity Clangeddin Silverbeard   Deity ????    Pronouns He / him
+Background Raised as heir apparent of clan Firehammer, I spent most of my youth training.
+Learning to fight, learning about the mines that gave us our wealth, learning
+the history of my clan, learning to be worthy of the name Firehammer.</description>
+        
+        <dc:creator>Adam</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>player-character</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Fain Kruisstamper</title>
+        <link>http://trashdungeon.co.uk/characters/fain/</link>
+        <pubDate>Sun, 22 Nov 2020 15:02:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 22 Nov 2020 15:02:00 +0000</atom:modified>
+        <guid>http://trashdungeon.co.uk/characters/fain/</guid>
+        <description>Summary    Category Value     Class Monk   Race Wood elf   Alignment True Neutral   Deity ????    Pronouns He / him
+Background Born in the forests of XXXX to wood elf parents, I found myself in the city of
+XXXX as a child, completely alone. When visiting the city with my parents, we
+were set upon by bandits and in the chaos I saw my father killed and was then</description>
+        
+        <dc:creator>Mike</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>player-character</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Yllwalyn</title>
         <link>http://trashdungeon.co.uk/characters/yllwalyn/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 22 Nov 2020 13:23:00 +0000</pubDate>
         
-        
+        <atom:modified>Sun, 22 Nov 2020 13:23:00 +0000</atom:modified>
         <guid>http://trashdungeon.co.uk/characters/yllwalyn/</guid>
         <description>Summary    Category Value     Class Ranger   Race Half-elf   Alignment Chaotic good   Deity Mielikki, goddess of forests    Pronouns She / her
 Background I was raised in a small and isolated community of few elves and humans. The
