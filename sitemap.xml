@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>http://trashdungeon.co.uk/characters/eline/</loc>
-    <lastmod>2020-11-16T08:30:12+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://trashdungeon.co.uk/characters/lucinda/</loc>
     <lastmod>2020-11-16T08:30:12+00:00</lastmod>
   </url>
@@ -77,11 +72,19 @@
   </url>
   
   <url>
+    <loc>http://trashdungeon.co.uk/tags/player-character/</loc>
+  </url>
+  
+  <url>
     <loc>http://trashdungeon.co.uk/series/</loc>
   </url>
   
   <url>
     <loc>http://trashdungeon.co.uk/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://trashdungeon.co.uk/characters/yllwalyn/</loc>
   </url>
   
 </urlset>

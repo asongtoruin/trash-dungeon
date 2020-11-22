@@ -39,25 +39,6 @@ Pronouns Background </description>
       </item>
       
       <item>
-        <title>Eline</title>
-        <link>http://trashdungeon.co.uk/characters/eline/</link>
-        <pubDate>Mon, 16 Nov 2020 08:30:12 +0000</pubDate>
-        
-        <atom:modified>Mon, 16 Nov 2020 08:30:12 +0000</atom:modified>
-        <guid>http://trashdungeon.co.uk/characters/eline/</guid>
-        <description>Summary A ranger, with a pet possum / badger / something else lightly unintimidating.
-Pronouns Background </description>
-        
-        
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Lucinda</title>
         <link>http://trashdungeon.co.uk/characters/lucinda/</link>
         <pubDate>Mon, 16 Nov 2020 08:30:12 +0000</pubDate>
@@ -109,6 +90,33 @@ Pronouns Background </description>
         
         
         
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Yllwalyn</title>
+        <link>http://trashdungeon.co.uk/characters/yllwalyn/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://trashdungeon.co.uk/characters/yllwalyn/</guid>
+        <description>Summary    Category Value     Class Ranger   Race Half-elf   Alignment Chaotic good   Deity Mielikki, goddess of forests    Pronouns She / her
+Background I was raised in a small and isolated community of few elves and humans. The
+scattered huts of my kin were based in a small glade between mountain and
+woodland. One cold winter day, Orcs came down from the mountain caves, in search</description>
+        
+        <dc:creator>Eline</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>player-character</category>
+            
+          
         
         
         
