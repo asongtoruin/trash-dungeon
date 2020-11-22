@@ -16,6 +16,8 @@ description: A dwarf paladin
 | Alignment | Lawful Neutral               |
 | Deity     | Clangeddin Silverbeard       |
 
+[Character sheet](https://www.dndbeyond.com/characters/39182580)
+
 ## Pronouns
 He / him
 

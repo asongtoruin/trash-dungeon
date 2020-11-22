@@ -16,6 +16,8 @@ description: A wood elf monk
 | Alignment | True Neutral                 |
 | Deity     | ????                         |
 
+[Character sheet](https://www.dndbeyond.com/characters/39182547)
+
 ## Pronouns
 He / him
 

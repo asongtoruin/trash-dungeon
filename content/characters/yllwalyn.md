@@ -16,6 +16,8 @@ description: A half-elf ranger
 | Alignment | Chaotic good                 |
 | Deity     | Mielikki, goddess of forests |
 
+[Character sheet](https://www.dndbeyond.com/characters/39182680)
+
 ## Pronouns
 She / her
 

@@ -16,6 +16,8 @@ description: A deep gnome druid
 | Alignment | Chaotic good                 |
 | Deity     | ????                         |
 
+[Character sheet](https://www.dndbeyond.com/characters/39680349)
+
 ## Pronouns
 He / him
 
