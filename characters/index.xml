@@ -26,10 +26,37 @@
         
         <atom:modified>Sun, 22 Nov 2020 18:31:00 +0000</atom:modified>
         <guid>http://trashdungeon.co.uk/characters/ragnar/</guid>
-        <description>Summary    Category Value     Class Paladin   Race Dwarf   Alignment Lawful Neutral   Deity Clangeddin Silverbeard    Pronouns He / him
+        <description>Summary    Category Value     Class Paladin   Race Mountain Dwarf   Alignment Lawful Neutral   Deity Clangeddin Silverbeard    Character sheet
+Pronouns He / him
 Background Raised as heir apparent of clan Firehammer, I spent most of my youth training. Learning to fight, learning about the mines that gave us our wealth, learning the history of my clan, learning to be worthy of the name Firehammer.</description>
         
         <dc:creator>Adam</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>player-character</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hellebore Svirfneblin</title>
+        <link>http://trashdungeon.co.uk/characters/hellebore/</link>
+        <pubDate>Sun, 22 Nov 2020 17:25:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 22 Nov 2020 17:25:00 +0000</atom:modified>
+        <guid>http://trashdungeon.co.uk/characters/hellebore/</guid>
+        <description>Summary    Category Value     Class Druid   Race Deep Gnome   Alignment Chaotic good   Deity ????    Character sheet
+Pronouns He / him
+Background I ran to the Coast 50 years ago, I live in a cave high above the tallest of waves. A deserted beach is my village. Miles from the nearest town. The Beach is often grey and overcast, a fierce wind blows.</description>
+        
+        <dc:creator>Conor</dc:creator>
         
         
         
@@ -51,7 +78,8 @@ Background Raised as heir apparent of clan Firehammer, I spent most of my youth 
         
         <atom:modified>Sun, 22 Nov 2020 15:02:00 +0000</atom:modified>
         <guid>http://trashdungeon.co.uk/characters/fain/</guid>
-        <description>Summary    Category Value     Class Monk   Race Wood elf   Alignment True Neutral   Deity ????    Pronouns He / him
+        <description>Summary    Category Value     Class Monk   Race Wood elf   Alignment True Neutral   Deity ????    Character sheet
+Pronouns He / him
 Background Born in the forests of XXXX to wood elf parents, I found myself in the city of XXXX as a child, completely alone. When visiting the city with my parents, we were set upon by bandits and in the chaos I saw my father killed and was then separated from my mother, I just kept on running.</description>
         
         <dc:creator>Mike</dc:creator>
@@ -76,7 +104,8 @@ Background Born in the forests of XXXX to wood elf parents, I found myself in th
         
         <atom:modified>Sun, 22 Nov 2020 13:23:00 +0000</atom:modified>
         <guid>http://trashdungeon.co.uk/characters/yllwalyn/</guid>
-        <description>Summary    Category Value     Class Ranger   Race Half-elf   Alignment Chaotic good   Deity Mielikki, goddess of forests    Pronouns She / her
+        <description>Summary    Category Value     Class Ranger   Race Half-elf   Alignment Chaotic good   Deity Mielikki, goddess of forests    Character sheet
+Pronouns She / her
 Background I was raised in a small and isolated community of few elves and humans. The scattered huts of my kin were based in a small glade between mountain and woodland. One cold winter day, Orcs came down from the mountain caves, in search for meat.</description>
         
         <dc:creator>Eline</dc:creator>
@@ -89,25 +118,6 @@ Background I was raised in a small and isolated community of few elves and human
               <category>player-character</category>
             
           
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Conor</title>
-        <link>http://trashdungeon.co.uk/characters/conor/</link>
-        <pubDate>Mon, 16 Nov 2020 08:30:16 +0000</pubDate>
-        
-        <atom:modified>Mon, 16 Nov 2020 08:30:16 +0000</atom:modified>
-        <guid>http://trashdungeon.co.uk/characters/conor/</guid>
-        <description>Summary An angry hermit-y druid.
-Pronouns Background </description>
-        
-        
-        
-        
-        
         
         
         
