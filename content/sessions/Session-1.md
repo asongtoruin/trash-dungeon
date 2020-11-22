@@ -11,7 +11,7 @@ draft: false
 - Vision starts to fade and the world goes pitch black
 - The party is no longer in the tavern!!
 - Instead, the party finds themselves in a cylindrical room, no windows or doors, 6 torches lit and spaced evenly around the room. Lectern in the middle with an open book. Looks like bones at the base, and a cauldron that looks flaming-ish.
-- Ragnar: "where have you brought me orc"
+- Ragnar: "where have you brought me gnome"
 - Hellebore: "I have done nothing of the sort!"
 - Fain - tries to hide, fails
 - There's a rustling in the middle of the room!
