@@ -12,7 +12,7 @@ description: A dwarf paladin
 | Category  | Value                        |
 | --------- | ---------------------------- |
 | Class     | Paladin                      |
-| Race      | Dwarf                        | 
+| Race      | Mountain Dwarf               | 
 | Alignment | Lawful Neutral               |
 | Deity     | Clangeddin Silverbeard       |
 
