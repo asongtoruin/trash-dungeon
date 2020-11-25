@@ -11,7 +11,7 @@
     <description>Recent content on Trash Dungeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2020 19:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 12:53:32 +0000</lastBuildDate>
     
         <atom:link href="http://trashdungeon.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +39,32 @@
         
       
 
+      
+      <item>
+        <title>Percivous Rigby</title>
+        <link>http://trashdungeon.co.uk/characters/percy/</link>
+        <pubDate>Wed, 25 Nov 2020 12:53:32 +0000</pubDate>
+        
+        <atom:modified>Wed, 25 Nov 2020 12:53:32 +0000</atom:modified>
+        <guid>http://trashdungeon.co.uk/characters/percy/</guid>
+        <description>Summary    Category Value     Class Barbarian   Race Human   Alignment Lawful good   Deity ????    Character sheet
+Pronouns He / him
+Background I have fought in countless battles and multiple wars. I was born to be a soldier and that is how I lived my life until I met my wife. She taught me gentler side of life and opened my eyes to what lay beyond the halls of war.</description>
+        
+        <dc:creator>Ciaran</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>player-character</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Session 1</title>
@@ -137,7 +163,7 @@ Background Born in the forests of XXXX to wood elf parents, I found myself in th
       </item>
       
       <item>
-        <title>Yllwalyn</title>
+        <title>Yllwalyn Finwion</title>
         <link>http://trashdungeon.co.uk/characters/yllwalyn/</link>
         <pubDate>Sun, 22 Nov 2020 13:23:00 +0000</pubDate>
         
