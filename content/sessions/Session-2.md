@@ -19,10 +19,10 @@ draft: false
 
 ## The session begins
 - Waking up in the pub, all sat in roughly the same area on one of the very long tables in the pub
-- Don't really remember details or faces, but broadly recognise faces
+- Don't really remember details or specifics of the encounter, but broadly recognise faces
 - Fain looks at the book in his hands and looks around at everyone else with faint recognition
-- Rangar, feeling the pain in his nether regions, faintly recognises Hellebroe: "Gnome... what did you do?"
-- Hellebore: "I didn't do nothing, get out of my way I am going to the bar for a whiskey"
+- Rangar, feeling the pain in his nether regions, faintly recognises Hellebore: "Gnome... what did you do?"
+- Hellebore: "I didn't do nothing, get out of my way I'm going to the bar for a whiskey"
 - Ragnar: "You two, do I know you?"
 - Yllwalyn: "I don't know. You seem familiar"
 - Fain: "I'm not sure, I recognise you but I don't know why. Do you know anything about this book?" and holds up the book
@@ -30,6 +30,7 @@ draft: false
 - The group head towards an empty table, the bards glance across and see a large human walking through the bar. They change their music to declare this is, indeed, the big show.
 - Percivus sits at the table and tells the others to join him at the table. "I've been travelling alone for a while, it seems you might need my help. What say you?"'
 - The group agrees
+- Hellebore: "But you should buy me a whiskey first"
 - Fain gets out his thieves tools to try and open the book
 - After 10 minutes, he hears a click. After another 5, there is another click. The lock pops open.
 - Fain reads the first page. There is a list of 10 names. The ink isn't black - it's **red**
@@ -53,7 +54,7 @@ draft: false
 - Volkas: "I don't really have any dealings with him, he's not seen around the city very often. I don't deal with him very often, I have no interest in the arcane"
 - Percivous: "Do you think anything could harm Zormenos?"
 - Volkas: "Hmmm. I don't think much as the leader of the school, though he is rather old so... maybe time"
-- Hellebore shakes his glass at Percivous as he returns to the table, Percivous drops copper into it
+- Hellebore shakes his empty whiskey glass at Percivous as he returns to the table, Percivous drops copper into it
 - Ragnar roars with laughter
 - Hellebore: "This is why I don't deal with other people"
 - Fain: "There's something bigger at play here than your drink"
@@ -70,7 +71,7 @@ draft: false
 - Percivous and Yllwalyn see a large half-orc outside the blacksmith's
 - Percivous introduces himself and asks where he can get his axe sharpened
 - The half-orc introduces herself as Norah Yama. "There's a fair amount of damage on this, it might take a bit of time to fix it. It should be finished in the morning"
-- Percivous: "I would like you to do it for me now, but as a former servant of the ROst army I would like to see some respect"
+- Percivous: "I would like you to do it for me now, but as a former servant of the Rost army I would like to see some respect"
 - Norah stands to her full height, a few inches taller than Percivous.
 - Norah: "Well, I don't mind getting behind the forge but it will cost a little bit more. I'm not the type to deal with... standard weapons such as this. It will cost a gold piece, and I can have it done within half an hour"
 - Percivous: "I'll pay you one gold if you will do my friend's dagger as well"
@@ -78,7 +79,7 @@ draft: false
 - Norah takes the dagger, and gets to work
 - Yllwalyn: "I'm sorry!". The half-orc's shoulders shake as she laughs.
 - Percivous: "I'm new to this area. What's the safety of this town like, is it a well-kept town? Do people bother you?"
-- Norah: "You'd be hard-pressed to find trouble at a shop full of weapons! There is trouble in every city, particularly in the southern district and somewhat in the east. It's a city with a lot of issues, but unless you're wearing gold you won't find much out and out danger"
+- Norah: "You'd be hard-pressed to find trouble at a shop full of weapons! There is trouble in every city, particularly in the southern district and somewhat in the east here. It's a city with a lot of issues, but unless you're wearing gold you won't find much out and out danger"
 - Yllwalyn: "And what about the school of arcane?"
 - Norah: "Its presence in the capital gives it a lot of prestige, as does the sheer scale of the school. How long have you been in the city?"
 - Percivous: "A couple of days."
