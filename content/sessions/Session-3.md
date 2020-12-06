@@ -1,0 +1,123 @@
+---
+title: "Session 3"
+date: 2020-12-06T18:18:25Z
+author: Adam
+authorEmoji: 👼
+description: ADAM FIX THIS
+draft: false
+---
+
+- The group are in Volkas' office.
+- Door swings open, and the server says the shipment has arrived, and there aren't enough people to bring the shipment back to the tavern.
+- Percivous throws his chair back, storms off through the door: "I need to sort something out. I won't be long"
+- Volkas has a heated discussion with the member of staff. Lots of the tavern's staff have taken the opportunity to leave.
+- Volkas: "Listen. You need to talk to Gryf, and I need help getting this shipment to the bar. You'll be doing the city and me a great favour"
+- Hellebore: "Can I have a bottle of whiskey to take with me?"
+- Volkas: "Gnome, you can have _five_ bottles of whiskey once the shipment is back"
+- Outside the tavern, it's still fairly busy in the marketplace
+- Fain, with his city knowledge, knows going through the marketplace isn't the fastest walk. He waves between the stores, through back alleys and around vendors, to lead the docks.
+- Pass by a ward garrison within the keep - the town guard's training area is here
+- Can see the jail as we walk past, carefully.
+- Arrive at an open market. Different atmosphere to the main market - lots of wooden tables with covers, everything possible for sale - meats, furs, other things.
+- Huge bridge visible across the river.
+- As the bridge is passed, the ground changes from stone to wood. We have reached the docks.
+- As the party walks onto the docks, we can see a poorly-maintained area. Some of the wood is split and rotting, there are piles of boxes and a crowd of sailors and merchants. It is a distinctly unimpressive scene.
+- Greeted by a hauty-looking elven man - dressed very lavishly, and wearing lots of jewellery in contrast to the surroundings
+- The elf: "Yes? Can I help you?"
+- Fain: "We're here to help to carry the shipment back to the Red Dragon pub"
+- The elf: "It's my job as the dock owner to let you in but... we're just so busy, we don't have the room"
+- He turns to walk away
+- Hellebore: "Oi elf. You're going to let us in or else"
+- The elf stops, and looks back at the party over his shoulder with a very intimidating glance. "I suggest you move away from the docks, before trouble will find you"
+- He raises his hand, and two orcs start to head across
+- Ragnar: "You think trouble will come to us. I think the trouble will come to you"
+- His hand falls,a nd he returns to the party. "I don't deal with words normally. I deal with... money. But seeing as you're so determined to come in, go about your business"
+- Heading over to the docks, there are three huge boats - galleons, decked out with cannons - and two medium-sized boats.
+- The sailors at the docks look fairly rough, as do the docks themselves. It's clear no money has been spent on the docks in a long time.
+- The two orcs that had been drawn towards the party aren't the only ones visible to the group - various other orcs are dotted throughout the crowd.
+- Yllwallyn shouts back after the elf: "Do you perhaps know Gryf Surefoot, kind sir?"
+- The elf: "Gryf... Surefoot? No, he's not arrived yet. But for a fee we could tell you when"
+- While this happens, a medium-to-large boat pulls towards land
+- There seems to be lot of activity around the boat, and a ramp lowers
+- A dragonborn sailor starts walking down the ramp with other sailors, carrying boxes
+- The elf: "Ahh. Looks like your luck is continuing. Gryf is... here."
+- Yllwallyn walks over to talk to Gryf and tries to introduce herself to him
+- The elf steps between the party and Gryf, and demands money from Gryf
+- Gryf looks annoyed, but hands the elf a bag of coins
+- Gryf: "What can I do you for?"
+- Yllwallyn: "We've found a book with your name in it"
+- Gryf: "I'm quite the sailor, there are many books with my name in it"
+- Hellebore: "It's written in **bloooood**."
+- Fain: "Look, I have the book here. But, we can help you with this shipment and talk to you about it later"
+- Gryf: "No, that's fine. I'm sorry about the hassle from Hasalnae - come onboard and we can talk about it there."
+- Gryf points towards his captain's quarters, telling the group to come inside.
+- Gryf: "Look. Show me the book first, I need to trust you before I let you below deck. Who sent you here?"
+- Yllwallyn, coughing: "I have something in my throat. Do you have any beer?"
+- Gryf hands her a green bottle from under his desk
+- Yllwallyn drinks from it, and feels an increasing burning sensation in her throat.
+- Gryf: "Are you after an autograph or something, or do I have the wrong end of the stick?"
+- Fain: "The wrong end of the stick."
+- Gryf: "Are you mocking me?"
+- Fain: "Yes."
+- Gryf: "Fair enough. Where's my name then?"
+- Fain holds up the book for Gryf to see his name. Then he reaches out and closes the book
+- Gryf: "This is not the place to discuss this. Have you spoken to any of the others in the book?"
+- The group confirms.
+- Gryf: "Look. I'll come with you to the tavern, and we can discuss this with them there"
+- Hasalnae comes in: "Look, how long are you going to be here. You haven't given me nearly enough money to stay here for long"
+- Gryf walks over, grabs his collar and pushes him out of the door
+- Hasalnae: "What is the meaning of this?? These are my docks! You'll pay or you'll go!!"
+- Gryf: "This may be your dock but it's **my ship**. Fuck off"
+- Gryf heads towards the ramp down from the ship. As he heads down, Hasselnae seems to be picking himself up and several orcs are heading over
+- Gry turns to the group and says "Truth be told, it's been a while since I've been back here. Something changed with Hasselnae a while back, and since then everything has been different"
+- Fain: "What's different?"
+- Gryf: "I'm sure you saw the state of the dock, and the people around you - they're miserable. They used to be full of life and full of cheer. And Hasalnae - he used to be so proud of it."
+- Ragnar: "Who is Hasalnae to you?"
+- Gryf: "He used to be a friend. Being a sailor, you get to know a lot of the dock owners. Hasselnae, I'm just not sure what happened to him"
+- Fain, muttering: "Is this even Haselnae?"
+- Fain, to Gryf: "...do you think it's even still him?"
+- Gryf, looking puzzled: "Truth be told, I've been wrapped up so much in my own thoughts that I'd neevr considered it"
+- Fain: "Things don't add up here. If he cared so much about the docks, why would he be spending so much money on himself"
+- Yllwallyn: "What if he's posessed by a demon?"
+- Ragnar: "Let's find out" and casts Divine Sense.
+- There seems to be something foul at the bottom of the ramp, pulsing off Hasalnae, and a fiendish presence from where the elf is.
+- Ragnar: "I can't say that there's a demon, but there's definitely something afoot there"
+- Yllwallyn: "I thought so"
+- Hellebore: "That doesn't sound good, does it."
+- Fain: "Shit. Looks like we should probably prepare for a fight."
+- Hellebore: "Gryf, are you going to help us?"
+- Hasalnae steps onto the ramp
+- Gryf: "Why would I fight Hasalnae?"
+- Ragnar: "Gryf, that isn't Hasalnae"
+- Hellebore: "That hasn't been Hasalnae for a loooong time"
+- Gryf: "Listen. I'm not going to get involved in something that might threaten someone's life, particularly someone that looks like someone I used to know. I won't get in your way, but I'm here in case."
+- Hasalnae takes a second step onto the ramp
+- Hasalnae: "The time for talking is over! You have threatened me on my land, you will pay"
+- Fain readies his bow and fires an warning arrow near to Hasalnae
+- Hellebore: "He's not going to stop coming"
+- Fain fires an arrow at Hasalnae's knee
+- Ragnar starts to walk towards Hasalnae and shouts: "I don't know what's going on with you, but there's some kind of evil here"
+- Hellebore: "You're not going alone"
+- Hellebore starts to run towards Hasalnae
+- Ragnar sighs, and starts to run alongside Hellebore
+- Yllwallyn runs past the two of them
+- Fain notices that the arrow has gone deeper into Hasalnae than would be expected, and that something looks amiss with the form
+- Fain: "Be careful - it might be smaller than it looks"
+- Fain fires another arrow, and the elf form dissipates and instead there's a tiefling where the elf once stood
+- She turns away, blinks and is suddenly four feet away from the bottom of the ramp, running away from the group.
+- Fain rapidly fires another arrow after her, and hits. She continues running, and the group chases after her.
+- Hellebore reaches forward to try and knock the tiefling over with his staff. She stumbles, and as she does Ragnar reaches forwards and grabs the tiefling's cloak to throw her upwards and back towards the group.
+- As she flies over them, Yllwallyn and Hellebore stretch up with their weapons and strike the tiefling as she passes
+- She lands near to Fain's feet
+- Hellebore: "Don't kill her - maybe she can tell us something"
+- Fain tries to strike the tiefling as she landas, but the wood beneath her buckles and the impact of the strike is lost
+- As the tiefling rises to her feet, she disappears from view.
+- There's a disturbance in the crowd to ther right of the ramp, around ten feet away
+- Ragnar: "GET OUT OF THE WAY"
+- As the crowd parts due to the commotion, the tielfing is visible in the centre. The group runs to surround her
+- Fain and Hellebore strike the tiefling and she crumples to the floor, knocked out.
+- Hellebore: "Maybe we should take her back to the pub with the **beeeeer**."
+- Fain: "I mean, the boat is only there. Maybe that would make more sense?"
+- As this conversaion is happening, Gryf comes off the boat with a length of rope.
+- Fain: "Can you tie her up and get her onto the boat? Maybe we should try and talk to her."
+- Gryf: "I sure can."
