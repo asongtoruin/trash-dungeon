@@ -3,7 +3,7 @@ title: "Session 3"
 date: 2020-12-06T18:18:25Z
 author: Adam
 authorEmoji: 👼
-description: ADAM FIX THIS
+description: Sittin' on the dock of the bay
 draft: false
 ---
 
