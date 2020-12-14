@@ -1,0 +1,118 @@
+---
+title: "Session 4"
+date: 2020-12-14T18:24:03Z
+author: Adam
+authorEmoji: 👼
+description: IT'S THE CHRISTMAS SPECIAL!
+draft: false
+---
+
+## CHRISTMAS SPECIAL
+It's Father Baktos Claus!!!
+
+## We begin at the docks...
+- All of a sudden, time and reality pauses.
+- Everything on the docks comes to a crashing halt and nobody else is moving except the 5 members of the party
+- Loud voice - "I AM BAKTOS. I AM SEEKING THE GREATEST MEAL IN THE UNIVERSE. YOU FIVE HAVE BEEN CHOSEN TO COOK ME... A GOOD FUCKING MEAL"
+- Sudden clap and disappear
+- Lightly glowing reddish walls either side of us, and a pathway leading ahead
+- At the end is a wooden door, slightly ajar, about 30 feet away
+- The party heads through the door and is greeted by a huge room - 120 feet and circular
+- Four doors going off it - two either side of the door we entered through, and two further around the perimeter
+- Looks like a gladiatiorial coliseum, with a roof on it
+- All around the area is tonnes of kitchenware - stoves, pots, basic spices etc.
+- There are four distinct cooking areas - each one in a different quadrant - and a huge stage in the centre, 45 feet in diameter
+- In the middle of the stage is a huge demon with ninja-style chef's whites, and a santa hat, a huge mouth and very good horns
+- He (Baktos) rises and says "I HAVE GATHERED YOU HERE AND I ASSUME YOU HAVE HEARD MY PREVIOUS DECREE. AS YOU SEE, I CAN STOP TIME AND PLACE AND BRING YOU TO ME. YOUR TASK, SHOULD YOU TAKE IT, IS TO COOK ME A REALLY GOOD FUCKING MEAL OR THREE"
+- Baktos: "AS YOU CAN SEE, THERE ARE 4 OTHER DOORS YOU CAN GO THROUGH. YOU GET IT? GO THROUGH THERE, YOU MIGHT SEE PERIL, YOU MIGHT SEE OTHER ROOMS WITH OTHER INGREDIENTS, AND YOU GOT TO COOK ME THREE GOOD MEALS OTHERWISE YOU'LL BE THE DAMN MEAL. YOU GOT 20 HOURS TO DO THIS IN."
+- The group goes into the first door on the left, and ahead are three routes
+- The group again goes left. Ahead is an ajar door with a light inside
+- The room is around 30 feet wide, again circular, and contains a table, an anvil and a forge. On the anvil, a fork, spoon and knife are arguing about who is the best chef among them.
+- Hellebore runs towards the centre of the room and reaches out to grab the utensils - they roll off the anvil
+- Fork: "If you aren't going to take us with you, maybe we can tell you about Baktos' weaknesses"
+- Hellebore: "Why should we trust you?"
+- Fork: "Well if you listen to us you won't have to cook him a meal, you'll only have to kill him"
+- Ragnar detects some sense of trickery from two of the utensils, but not all three
+- Fork: "To kill Baktos, you gotta force a mince pie down his throat so he chokes on it"
+- Spoon: "No no no, you gotta wrap a whole wreath of tinsel around him"
+- Knife: "No, you gotta sing Christmas carols and be truthful and festive around him"
+- Yllwallyn asks the fork who we should listen to
+- Fork, leaning up against the anvil: "You should trust me, why would I lie to a big person who could squash me"
+- Yllwallyn can tell the fork is lying
+- Yllwallyn: "Beautiful spoon, are telling the truth?"
+- Spoon: "Of course I'm telling the truth!"
+- Yllwallyn hears that the spoon is lying - so the knife is telling the truth
+- Ragnar nodes at Percivous, the two each pick up one of the deceitful cutlery and cast them into the forge
+- Yllwallyn: "Knife, which way should we go?"
+- Knife: "Ahead is the Eldritch forge, left is the recipe library"
+- The group head out into a hallway, there's a battle between four rabbit-riding carrot knights and 8 porcini goblins, the latter are losing and carrying a tarasque sausage.
+- A carrot knight falls to the porcini goblins, but the carrots slay 3 goblins.
+- Percivous charges forward and swings his axe, killing two mushrooms.
+- Yllwallyn runs in towards the carrots and swings her sword at two of the rabit-riders and manages to slice both them and their steeds into ribbons
+- Hellebore dives forwards and grabs the remaining carrot-rider along with its steed
+- Fain sees this and follows suit, grabbing a mushroom.
+- Ragnar swings his hammer and pulverises the two remaining mushrooms.
+- Hellebore asks the carrot what they were fighting about
+- Carrot: "LEAVE US. WE'RE FIGHTING OVER WHO IS THE BETTER ADDITIONAL INGREDIENT TO A DISH"
+- Hellebore: "How did you tame the rabbits?"
+- Carrot: "We got our feet tendrils into their brains, it's like Avatar"
+- Hellebore: "Maybe we should let them fight to see who should go into our meal"
+- The porcini manages to defeat the carrot-knight, but the rabbit then simply... eats the mushroom. The rabbit stands victorious, the sausage rolls across the floor
+- A tarasque is a gargantuan monstrosity - huge, bipedal dragon-dinosaurs, almost like a T-rex but with functional arms, found only in deserts or burning hot places
+- The sausage is said to transform into a full-sized tarasque when it encounters gastric juices.
+- Baktos' booming voice echoes through the dungeon: "AH, YOU FOUND ONE OF THOSE SAUSAGES. YOU SHOULD KNOW, I'M IMMUNE TO THAT. BUT I DO LOVE A SAUSAGE"
+- Entering the library - it has a 60ft diameter, the walls lined with crumbling crimson papyrus scrolls. Branches hang from the ceiling containing ghost peppers. They are translucent and ungodly-spicy, containing long-dead souls **of Christmas past**.
+- There are also 12 flying slug-moths, getting drawn to the flames lighting the room up (they don't seem very edible)
+- Baktos: "BE CAREFUL - IF YOU GET TOO CLOSE TO THE FIRE, THOSE SLUG-MOTHS GOT A BURN ON THEM"
+- Fain starts looking at the scrolls, and notices a pattern. There seems to be some with vegetables and non-meat recipes, and then finally finds one for tarasque sausage casserole
+- As he pulls it from the wall, another falls from the wall. It says "flesh to pie". It provides a spell to transform humanoid-creatures into pie! Delicious.
+- Hellebore grabs the torch from the sconce and pulls it away from the wall. The moths follow along, so Ragnar walks across and grabs five peppers.
+- Percivous heads towards the dessert section with Yllwallyn
+- The two adventurers find mince pie and yule log recipes within the Christmas section, how fortunate.
+- The team head into the next room, between the two routes at the end of the corridor there is an insane scantily-clad chef who offers a selection of ingredients in exchange for a sacrifice of hours.
+- The group agrees to sacrific three hours to the chef for one of a selection of special ingredients
+- The group chooses to take the **baked sun**.
+- Heading down one of the corridors, the group enteres another 30-foot room
+- In the middle, there is a throne with a sleeping lich-chef holding half a baked sun. He's surrounded by meat pies and mince pies
+- Fain sneaks into the room and carefully steals 12 of the mince pies, shutting the door behind him.
+- The group head past the scantily-clad chef and head round the corner of the corridor. At the end of this corridor there is another door. Halfway along there is a potato-knight cleansing a group of four porcini goblins with fire
+- The group gang up on the potato (Ragnar misses) and take him down with aplomb
+- He drops a leaf sword - Hellebore picks it up as the group pass the scene of the fight to enter another room
+- In the next room - huge, as large as the starting arena - there is the crumbling remains of a giant skeleton. Dripping from its eye-sockets is moon water, and at its base there are moon-frogs fighting over the water.
+- The group run through the room and exit swiftly, avoiding the frogs.
+- This leads into a corridor - the group run through, past a blue crab wearing a coral-crusted cowboy hat on the ceiling, into a room containing a pirate ship surrounded by broken glass and containing lots of treasure.
+- The group starts to look through the treasure - finding 6000 silver pieces and a glowing red stone. Underneath, there is a chalk-like substance.
+- Percivous licks the stone, it tastes like a mixture of soap and chalk. His tongue glows a faint red.
+- Passing into the next corridor, the blue crab begins to chase the group.
+- Baktos: "THAT'S TWELVE TURNS GUYS. LOOKS LIKE YOU'VE GOT SOME TROUBLE THERE"
+- As Ragnar and the crab face off, Ragnar swings his hammer over his head and crushes the body of the crab.
+- In the next room, many broken shells surround a small castle-sized sleeping chicken (!!!!!!). Seven porcini-goblins are caring for the bird.
+- Ragnar: "You might not be chestnuts but I'll roast you like some, if you don't let us have some eggs" (and shows them the previously-slain mushrooms)
+- The porcini: "You can take whatever you want. She's ready to lay, but her screams will burst your eardrums"
+- The group head into the next room to avoid the shriek, and hear it off in the distance.
+- Nipping back into the room, Ragnar retrieves the cosmic egg.
+- The door leads back into the skeleton room, so the group exit through the only door in that room not passed through yet.
+- At the end of the next corridor is a wine cellar containing 55 kegs of wine and a malt cask, protected by 7 cinnamon skeletons in golden armour.
+- The group attack the skeletons (Ragnar misses) and kills 6 of them
+- The remaining skeleton manages to land a hit on Percivous, before Ragnar crushes it with his hammer.
+- The group start to open the kegs - as Percivous opens the keg he instead finds the cat-god of wines, who is hungry and meowing. He's wearing a fancy jacket. Percivous gives him a piece of the squashed crab meat, and starts to follow him. Percivous calls the cat Glen.
+- Hellebore takes a small container of the _les hommes au vin_, and the rest of the group grab some wine
+- The group shout to Baktos that they have obtained all of their ingredients, and suddenly are returned to the main kitchen arena.
+- The group begin to prepare the food for Baktos:
+ - Ragnar cracks open the claws with his hammer, and Yllwallyn makes a garlic aioli
+ - Fain and Hellebore start to create the casserole with the various vegetables, sausage, rabbit and a small quantity of wine.
+ - Percivous uses the rolling pin from his equpment to prepare some pastry, and uses the mincemeat to create mince pies. Some of the wine and cinnamon are mixed together to make mulled wine.
+- Baktos' area transforms into a Masterchef judging panel. 
+- "YOU'RE BEING MARKED ON CREATIVITY, SERVICE AND MY OWN PREFERENCE"
+- Ragnar presents the crab claws. One claw either side, with a small dish of aioli in the middle. The cowboy hat is used as a lid for the sauce.
+- "THIS CRAB. I'M GIVING YOU A THREE FOR YOUR CREATIVITY. SERVICE? I'LL GIVE YOU A TEN. FLAVOUR? THAT'S AN EIGHT"
+- Hellebore presents the casserole - featuring all of the ingredients and _that bastard potato_
+- "CREATIVITY GETS A SIX. SERVICE? THAT GETS A FOUR. NOT ENOUGH SWEARING. BUT THE FLAVOUR? THAT'S A 10"
+- Hellebore presents the mince pie and mulled wine, with _much more swearing_
+- "CREATIVITY - TEN! I AIN'T NEVER HAD CHRISTMAS FOOD BEFORE. SERVICE, TEN. THAT'S MUCH MORE LIKE IT. FLAVOUR? I'LL GIVE THAT AN EIGHT."
+- Percy recevives a large butter knife from Baktos as the creator of the finest dish.
+- "IT DOESN'T LOOK LIKE MUCH BUT..."
+- He turns around and the knife slices directly through the table
+- "WELL, CONGRATULATIONS, YOU'VE FINISHED"
+- As the room starts to fade away the group start to sing a Christmas carol and Baktos begins to melt away as the group return to the docks. 
+- No time seems to have passed, but there is a large chef-santa hat in the middle of the group...
