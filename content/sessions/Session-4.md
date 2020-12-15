@@ -99,9 +99,9 @@ It's Father Baktos Claus!!!
 - Hellebore takes a small container of the _les hommes au vin_, and the rest of the group grab some wine
 - The group shout to Baktos that they have obtained all of their ingredients, and suddenly are returned to the main kitchen arena.
 - The group begin to prepare the food for Baktos:
- - Ragnar cracks open the claws with his hammer, and Yllwallyn makes a garlic aioli
- - Fain and Hellebore start to create the casserole with the various vegetables, sausage, rabbit and a small quantity of wine.
- - Percivous uses the rolling pin from his equpment to prepare some pastry, and uses the mincemeat to create mince pies. Some of the wine and cinnamon are mixed together to make mulled wine.
+  - Ragnar cracks open the claws with his hammer, and Yllwallyn makes a garlic aioli
+  - Fain and Hellebore start to create the casserole with the various vegetables, sausage, rabbit and a small quantity of wine.
+  - Percivous uses the rolling pin from his equpment to prepare some pastry, and uses the mincemeat to create mince pies. Some of the wine and cinnamon are mixed together to make mulled wine.
 - Baktos' area transforms into a Masterchef judging panel. 
 - "YOU'RE BEING MARKED ON CREATIVITY, SERVICE AND MY OWN PREFERENCE"
 - Ragnar presents the crab claws. One claw either side, with a small dish of aioli in the middle. The cowboy hat is used as a lid for the sauce.
