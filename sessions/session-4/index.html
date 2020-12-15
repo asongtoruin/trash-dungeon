@@ -1807,10 +1807,13 @@
 <li>The group start to open the kegs - as Percivous opens the keg he instead finds the cat-god of wines, who is hungry and meowing. He&rsquo;s wearing a fancy jacket. Percivous gives him a piece of the squashed crab meat, and starts to follow him. Percivous calls the cat Glen.</li>
 <li>Hellebore takes a small container of the <em>les hommes au vin</em>, and the rest of the group grab some wine</li>
 <li>The group shout to Baktos that they have obtained all of their ingredients, and suddenly are returned to the main kitchen arena.</li>
-<li>The group begin to prepare the food for Baktos:</li>
+<li>The group begin to prepare the food for Baktos:
+<ul>
 <li>Ragnar cracks open the claws with his hammer, and Yllwallyn makes a garlic aioli</li>
 <li>Fain and Hellebore start to create the casserole with the various vegetables, sausage, rabbit and a small quantity of wine.</li>
 <li>Percivous uses the rolling pin from his equpment to prepare some pastry, and uses the mincemeat to create mince pies. Some of the wine and cinnamon are mixed together to make mulled wine.</li>
+</ul>
+</li>
 <li>Baktos' area transforms into a Masterchef judging panel.</li>
 <li>&ldquo;YOU&rsquo;RE BEING MARKED ON CREATIVITY, SERVICE AND MY OWN PREFERENCE&rdquo;</li>
 <li>Ragnar presents the crab claws. One claw either side, with a small dish of aioli in the middle. The cowboy hat is used as a lid for the sauce.</li>
@@ -2016,6 +2019,7 @@
   
 </script>
     
+
     
     
 
@@ -2467,6 +2471,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+
 <script defer src="/js/helper/getParents.min.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
@@ -2476,6 +2481,42 @@ document.addEventListener('DOMContentLoaded', function () {
 <script defer src="/js/helper/prop.min.js"></script>
 
 <script defer src="/js/helper/fadeinout.min.js"></script>
+
+<script defer src="/js/helper/throttle.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2659,6 +2700,23 @@ document.addEventListener('DOMContentLoaded', function () {
       }) : null;
     }
     
+    
+    
+    
+    
+    var topOffset = 120;
+    var botOffset = 70;
+    var handleWindowResize = function () {
+      if (tocElem) {
+        tocElem.style.maxHeight = (window.innerHeight - topOffset - botOffset) + 'px';
+      }
+    }
+    var throttledWindowResize = throttle(handleWindowResize, 300);
+    throttledWindowResize()
+
+    
+    window.addEventListener('resize', throttledWindowResize);
+    
 
 
 
@@ -2677,7 +2735,7 @@ document.addEventListener('DOMContentLoaded', function () {
       var newElemOuter = document.createElement('span');
       newElemOuter.classList.add('anchor');
       newElemOuter.classList.add('hide');
-      newElemOuter.setAttribute('data-clipboard-text', link);
+      newElemOuter.setAttribute('data-clipboard-text', decodeURI(link));
       newElemOuter.style.position = 'relative';
 
       var newElemInner = document.createElement('span');
